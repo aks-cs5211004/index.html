@@ -1,0 +1,12 @@
+*{
+    background-color: #222;
+    color:white;
+    font-family: 'Neonderthaw';
+}
+body{
+    margin: 40px auto;
+    max-width: 650px;
+}
+a{
+    color: tomato;
+}
